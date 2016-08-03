@@ -20,7 +20,7 @@ h1{
 	color:white;
 }
 .tr{
-	margin:5px;
+	margin:15px;
 }
 .td{
 	text-align: left;
@@ -32,6 +32,9 @@ input{
 	font-size:20px;
 	font-family:"times new roman";
 	padding:5px;
+	border-radius:0px;
+	border:solid 1px grey;
+	width:350px;
 }
 .error{
 	font-size:20px;
