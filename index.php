@@ -37,6 +37,12 @@
 			</div>
 
 			<div class="tr">
+				<div class="td"><label>Revert</label></div>
+				<div class="td"><input id="Payment"  type="text" name="Payment" placeholder="Revert"></div>
+				<div id="erroradd1" class="td error"></div>
+			</div>
+
+			<div class="tr">
 				<div class="td"><label></label></div>
 				<div class="td"><input class="button" id="submit"  type="submit" name="submit" value="Register Now"></div>
 				<div id="erroradd1" class="td error"></div>
