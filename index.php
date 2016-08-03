@@ -37,12 +37,6 @@
 			</div>
 
 			<div class="tr">
-				<div class="td"><label>To be reset</label></div>
-				<div class="td"><input id="test"  type="text" name="Payment" placeholder="to be reset"></div>
-				<div id="erroradd1" class="td error"></div>
-			</div>
-
-			<div class="tr">
 				<div class="td"><label></label></div>
 				<div class="td"><input class="button" id="submit"  type="submit" name="submit" value="Register Now"></div>
 				<div id="erroradd1" class="td error"></div>
