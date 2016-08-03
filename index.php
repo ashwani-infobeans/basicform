@@ -24,6 +24,12 @@
 				<div class="td"><input id="inputadd1"  type="text" name="address1" placeholder="Input Address(Line 1)"></div>
 				<div id="erroradd1" class="td error"></div>
 			</div>
+
+			<div class="tr">
+				<div class="td"><label>Payment</label></div>
+				<div class="td"><input id="Payment"  type="text" name="Payment" placeholder="Input Payment"></div>
+				<div id="erroradd1" class="td error"></div>
+			</div>
 		</form>
 	</div>
 </body>
