@@ -38,7 +38,7 @@
 
 			<div class="tr">
 				<div class="td"><label></label></div>
-				<div class="td"><input id="submit"  type="submit" name="submit" value="Register Now"></div>
+				<div class="td"><input id="submit"  type="submit" name="submit" value="Register Now!"></div>
 				<div id="erroradd1" class="td error"></div>
 			</div>
 		</form>
