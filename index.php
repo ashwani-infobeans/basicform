@@ -36,6 +36,11 @@
 				<div id="erroradd1" class="td error"></div>
 			</div>
 
+			<div class="tr">
+				<div class="td"><label></label></div>
+				<div class="td"><input id="submit"  type="submit" name="submit" value="Register"></div>
+				<div id="erroradd1" class="td error"></div>
+			</div>
 		</form>
 	</div>
 </body>
