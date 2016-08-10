@@ -16,8 +16,8 @@ h1{
 	font-family:"times new roman";
 	background-color:#28b463;
 	border-style:none;
-	border-radius:0px 10px 0px 10px; 
-	color:white;
+	border-radius:0px 10px 0px 10px;
+ 	color:white;
 }
 .tr{
 	margin:15px;
@@ -35,8 +35,4 @@ input{
 	border-radius:0px;
 	border:solid 1px grey;
 	width:350px;
-}
-.error{
-	font-size:20px;
-	color:red;
 }
